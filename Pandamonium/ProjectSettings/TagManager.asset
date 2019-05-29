@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Through
+  - EndLevel
+  - MiddleTile
+  - BossWall
+  - EnemyRobot
+  - move_plat
+  - Boss
+  - Chest
+  - GM
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Obstacle
+  - Background
+  - Enemy
+  - X-Ray Objects
+  - PostProcess
+  - Interactable
+  - Breakable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1611635347
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 521630053
+    locked: 0
+  - name: Foreground
+    uniqueID: 3844178895
+    locked: 0
